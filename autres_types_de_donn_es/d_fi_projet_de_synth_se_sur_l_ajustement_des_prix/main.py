@@ -5,3 +5,6 @@ grocery_inventory= {
     "Apples": ("Produce",1.50,50)}
 if grocery_inventory["Eggs"][1]>5:
     print("Eggs are too expensive, reducing the price by $1")
+else:
+    print("The price of Eggs is reasonable")
+gorcery_inventory["Tomatoes"]  
